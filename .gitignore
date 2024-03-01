@@ -1,2 +1,2 @@
-# Removes IDE folder
+# exclude .vscode
 /.vscode
